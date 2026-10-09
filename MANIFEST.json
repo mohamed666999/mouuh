@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-07",
+  "offline_tests_passed": 100,
+  "validation": "offline mocks and synthetic-source transformation; no Binance requests or trades",
+  "original_script_included": false,
+  "files_sha256": {
+    "apply_apex_fix.py": "27e88a0948338a4754d298be37f4f55d4c8cb1ecc08fda1e2643ca4274519743",
+    "core.py": "3a952a7e5347d68b9eb869caab7b86438ace4d1931a98d6f905945cdd53c66fa",
+    "execution_replacement.py": "4c898313ec947ba9680b6854f58a8985ce0d34eeecd17662249d99989c0d078c",
+    "controller_methods.py": "bf23b19635d73286003597a395aed71361938d949de436e348ed3c646e104910",
+    "other_methods.py": "97f52de3792d5e5b759471f27893d78dd895a0d71f503a4bbb395ae25f53b32a",
+    "README_AR.md": "aca746402f446dbfd78e79e8a808fbabb06402b1ab98bee95bc6122e2df989f9",
+    "TEST_RESULTS.md": "bfa62ec14ae72c97054068b4cd3f979c61d49391ba3865a9579a9afb18e79e55",
+    "requirements.txt": "fb22ffe7d55360ec8de75e758e889571663b658f942d4e3d25ad1306500627da",
+    ".env.example": "0a1633b7b433754544274075d96bafb0028b6b30211f80e7c0bdb924e77caaa4",
+    ".gitignore": "04eacc785054dc459919f6fea800ccda40425a01063dc55e2e99e5ef0096ef12",
+    "tests/conftest.py": "09e4bd7e85ec87919e433cfe6abb6f07f212d1e363175c599af7e8879d870783",
+    "tests/test_core.py": "14bf2a7ba5540235922ba74101de254cdb41f738d1169238661dcb03ceacc5d5",
+    "tests/test_execution.py": "41423d0a978e30aee10c5f14faedeebde456a20f1df43cc49aa2b11e3ac731e9",
+    "tests/test_builder_and_math.py": "5babad7db5d577f4ace188041e3dd8a7d6d6d721ff9b88fcb19aa8142867f268",
+    "tests/test_additional_safety.py": "83b8f4cfd0580fb9537ad83986d54d0c963add67d4df9d832b5c16618ec2f556"
+  }
+}

@@ -1,0 +1,14 @@
+# Python 3.10+; the original engine remains a separate user-provided source file.
+# CCXT 4.5.85 raw-method availability was checked locally without requests.
+ccxt==4.5.85
+numpy>=1.26,<3
+pandas>=2.2,<4
+scipy>=1.12,<2
+aiohttp>=3.10,<4
+websockets>=13,<17
+python-dotenv>=1,<2
+fastapi>=0.115,<1
+uvicorn>=0.30,<1
+prometheus-client>=0.20,<1
+orjson>=3.10,<4
+pytest>=8,<10
